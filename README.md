@@ -1,6 +1,6 @@
 # Reaper AI
 
-> 🇨🇦 **Built at Hack Canada** · [View on Devpost](https://devpost.com/software/reaper-ai)
+> 🇨🇦 **Built at Gen ai genesis** 
 
 **[Watch the demo on YouTube](https://www.youtube.com/watch?v=KtHfp2pu9zE)** · **[View on Devpost](https://devpost.com/software/reaper-ai)**
 
@@ -170,7 +170,3 @@ reaper-bridge/      — REAPER-side bridge script
 ```
 
 ---
-
-## Built at Hack Canada
-
-Made in 24 hours at [Hack Canada](https://devpost.com/software/reaper-ai). Watch the demo: [YouTube](https://www.youtube.com/watch?v=KtHfp2pu9zE)
