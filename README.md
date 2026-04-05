@@ -1,8 +1,14 @@
 # Reaper AI
 
+> 🇨🇦 **Built at Hack Canada** · [View on Devpost](https://devpost.com/software/reaper-ai)
+
+**[Watch the demo on YouTube](https://www.youtube.com/watch?v=KtHfp2pu9zE)** · **[View on Devpost](https://devpost.com/software/reaper-ai)**
+
+---
+
 An AI assistant that lives inside REAPER and lets you build full tracks by just talking to it.
 
-![REAPER AI Panel](https://img.shields.io/badge/REAPER-7.x-blue) ![Python](https://img.shields.io/badge/Python-3.14-green) ![Model](https://img.shields.io/badge/Gemini-2.5%20Flash-orange)
+![REAPER AI Panel](https://img.shields.io/badge/REAPER-7.x-blue) ![Python](https://img.shields.io/badge/Python-3.14-green) ![Model](https://img.shields.io/badge/Gemini-2.5%20Flash-orange) ![Hackathon](https://img.shields.io/badge/Hack%20Canada-2025-red)
 
 ---
 
@@ -165,4 +171,6 @@ reaper-bridge/      — REAPER-side bridge script
 
 ---
 
-## Built at a hackathon
+## Built at Hack Canada
+
+Made in 24 hours at [Hack Canada](https://devpost.com/software/reaper-ai). Watch the demo: [YouTube](https://www.youtube.com/watch?v=KtHfp2pu9zE)
