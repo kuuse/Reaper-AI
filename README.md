@@ -8,7 +8,7 @@
 
 An AI assistant that lives inside REAPER and lets you build full tracks by just talking to it.
 
-![REAPER AI Panel](https://img.shields.io/badge/REAPER-7.x-blue) ![Python](https://img.shields.io/badge/Python-3.14-green) ![Model](https://img.shields.io/badge/Gemini-2.5%20Flash-orange) ![Hackathon](https://img.shields.io/badge/Hack%20Canada-2025-red)
+![REAPER AI Panel](https://img.shields.io/badge/REAPER-7.x-blue) ![Python](https://img.shields.io/badge/Python-3.14-green) ![Model](https://img.shields.io/badge/Qwen-3%20Coder-orange)
 
 ---
 
